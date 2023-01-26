@@ -1,0 +1,24 @@
+
+git init   -> añadir proyecto a git hub
+
+git add -> añadir file a stage
+
+git commit -> guardar en git 
+
+git checkout -b (name)   -> crear new branch
+
+git checkout (name)  -> switch to other branch
+
+git branch -> show me many branch I have, and which brand am I
+
+git push -u origin (name)  -> mandar la rama al origen (git hub)
+
+git pull ->  actualizar con los datos nuevos del github
+
+git clone (url)  -> añadir repositorio remoto a local (https)
+
+git remote -v   -> me dice a que directorio remoto estoy conectado (en blanco si no hay)
+
+$ git remote add origin (url)   -> añadir a repositorio remoto
+
+git pull ->  para añadir lo que tengo en remoto a mi repositorio 

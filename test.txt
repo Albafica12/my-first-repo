@@ -22,5 +22,3 @@ git remote -v   -> me dice a que directorio remoto estoy conectado (en blanco si
 $ git remote add origin (url)   -> añadir a repositorio remoto
 
 git pull ->  para añadir lo que tengo en remoto a mi repositorio 
-
-fin
